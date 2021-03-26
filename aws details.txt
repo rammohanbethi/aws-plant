@@ -1,0 +1,6 @@
+email=amruth@gmail.com&name=amruth&phone=9123456789&password=user@123
+
+email=prasad@gmail.com&name=prasad&phone=9123456789&password=user@123
+
+plant1 for user data - https://ym7k7jvl44.execute-api.us-east-2.amazonaws.com/plant1
+plant2 for get data -  https://r92t3n4rpj.execute-api.us-east-2.amazonaws.com/plant2
